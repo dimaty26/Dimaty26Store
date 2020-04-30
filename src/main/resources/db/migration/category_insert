@@ -1,0 +1,1 @@
+INSERT INTO category VALUES (1,'Technology'),(2,'Toy'),(3,'Book'),(4,'Food'),(5,'Sport'),(6,'Clothing'),(7,'Beauty');
